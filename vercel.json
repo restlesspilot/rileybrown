@@ -6,8 +6,5 @@
     "api/chat.js": {
       "runtime": "@vercel/node@2.15.1"
     }
-  },
-  "engines": {
-    "node": "18.x"
   }
 }

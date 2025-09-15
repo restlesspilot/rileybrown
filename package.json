@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Riley Brown's landing page with AI chat functionality",
   "main": "index.html",
+  "engines": {
+    "node": "18.x"
+  },
   "scripts": {
     "dev": "vercel dev",
     "build": "echo 'Static site - no build needed'",
