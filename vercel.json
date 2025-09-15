@@ -1,5 +1,7 @@
 {
-  "outputDirectory": ".",
+  "buildCommand": null,
+  "outputDirectory": null,
+  "installCommand": "npm install",
   "functions": {
     "api/chat.js": {
       "runtime": "@vercel/node@2.15.1"
